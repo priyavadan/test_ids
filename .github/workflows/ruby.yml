@@ -1,6 +1,6 @@
 name: Test Is Regression Tests
 
-on: [push, pull_requests]
+on: [push]
 
 jobs:
   build:
